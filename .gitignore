@@ -1,0 +1,6 @@
+#vim
+*.orig
+.*.sw*
+
+#ctags
+tags
